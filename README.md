@@ -14,4 +14,4 @@ Recommendations:
 3.	Justification: A hybrid cloud model is the most appropriate approach for Niko Electrics because it allows the company to take advantage of the benefits of the cloud without sacrificing control over its data and applications. This approach would provide increased flexibility and scalability, as well as improved access to data and applications from any location. Additionally, a hybrid cloud model would allow the company to gradually migrate to the cloud at its own pace, reducing the risk and disruption associated with a complete transition to the cloud.
 
 
-
+https://github.com/nikodbs/aaron.git
